@@ -1,0 +1,50 @@
+.logo {
+  height: 80px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.gamora {
+  position: absolute;
+  left: 230px;
+  top: 130px;
+}
+
+.mantis {
+  position: absolute;
+  left: 180px;
+  top: 220px;
+}
+
+.thanos {
+  position: absolute;
+  left: 330px;
+  top: 200px;
+}
+
+.wanda {
+  position: absolute;
+  left: 370px;
+  top: 115px;
+}
+
+.loki {
+  position: absolute;
+  left: 450px;
+  top: 45px;
+}
+
+.tony {
+  position: absolute;
+  left: 470px;
+  top: 170px;
+}
+
+.natasha {
+  position: absolute;
+  left: 400px;
+  top: 290px;
+}

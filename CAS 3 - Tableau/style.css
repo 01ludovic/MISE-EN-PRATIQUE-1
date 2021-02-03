@@ -1,0 +1,32 @@
+div {
+    background-color: silver;
+    height: 340px;
+    width: 950px;
+    margin: auto;
+}
+
+table {
+    border: 0 solid black;
+    cursor: pointer;
+    margin: auto;
+    width: 900px;
+    box-shadow: 10px 10px 3px darkgray;
+}
+
+table tbody tr:hover * {
+    background-color: lightgray;
+}
+
+thead tr {
+    background: linear-gradient(black, white);
+    color: white;
+    text-align: right;
+    
+}
+
+td {
+    width: 250px;
+    height: 30px;
+    background-color: #4d7ca5;
+}
+

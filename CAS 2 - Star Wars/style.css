@@ -1,0 +1,50 @@
+.container {
+  display: grid;
+  margin : auto;
+  width: fit-content;
+  grid-template-areas: 
+  "number12 number10 number10"
+  "number9 number8 number7"
+  "number9 number5 number4"
+  "number3 number2 number1";
+}
+
+.number12 {
+  grid-area: number12;
+}
+
+.number10 {
+  grid-area: number10;
+}
+
+.number9 {
+  grid-area: number9;
+}
+
+.number8 {
+  grid-area: number8;
+}
+
+.number7 {
+  grid-area: number7;
+}
+
+.number5 {
+  grid-area: number5;
+}
+
+.number4 {
+  grid-area: number4;
+}
+
+.number3 {
+  grid-area: number3;
+}
+
+.number2 {
+  grid-area: number2;
+}
+
+.number1 {
+  grid-area: number1;
+}
